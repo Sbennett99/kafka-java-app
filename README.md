@@ -1,6 +1,7 @@
 # kafka-java-app
 ## Team Lead
-- Seth Bennett
+- [Seth Bennett](https://github.com/Sbennett99)
+
 ## Team Members
 
 - Dylan Opoka
