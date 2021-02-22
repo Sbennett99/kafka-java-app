@@ -10,5 +10,5 @@
 - [Devin Ingersoll](https://github.com/deviningers)
 
 
-- Enid Maharjan
+- [Enid Maharjan](https://github.com/strygwyr555)
 
