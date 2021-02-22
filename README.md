@@ -6,7 +6,7 @@
 - Dylan Opoka
 
 
-- Devin Ingersoll
+- [Devin Ingersoll](https://github.com/deviningers)
 
 
 - Enid Maharjan
