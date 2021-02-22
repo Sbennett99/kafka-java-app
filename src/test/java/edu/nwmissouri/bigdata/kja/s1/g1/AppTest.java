@@ -1,4 +1,4 @@
-package edu.nwmissouri.bigdata.sethbennett;
+package edu.nwmissouri.bigdata.kja.s1.g1;
 
 import static org.junit.Assert.assertTrue;
 

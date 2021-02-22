@@ -1,4 +1,4 @@
-package edu.nwmissouri.bigdata.sethbennett;
+package edu.nwmissouri.bigdata.kja.s1.g1;
 
 /**
  * Hello world!
