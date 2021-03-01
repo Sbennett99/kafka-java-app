@@ -1,6 +1,7 @@
 # kafka-java-app
 ## Team Lead
 - [Seth Bennett](https://github.com/Sbennett99)
+  -[Repo Link](https://github.com/Sbennett99/kafka-java-app-custom-producer)
 
 ## Team Members
 
