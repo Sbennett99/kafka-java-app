@@ -4,7 +4,7 @@
 
 ## Team Members
 
-- Dylan Opoka
+- [Dylan Opoka](https://github.com/DylanOpoka)
 
 
 - [Devin Ingersoll](https://github.com/deviningers)
