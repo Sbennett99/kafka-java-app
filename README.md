@@ -8,7 +8,6 @@
 
 
 - [Devin Ingersoll](https://github.com/deviningers)
-
+  - [Repo link](https://github.com/deviningers/kafka-java-app)
 
 - [Enid Maharjan](https://github.com/strygwyr555)
-
